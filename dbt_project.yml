@@ -159,3 +159,4 @@ tests:
 # ============================================================================
 # Aquí podríamos sobreescribir freshness o metadata de sources de forma global.
 # (Por ahora todo se gestiona en cada _sources.yml).
+
